@@ -3,6 +3,11 @@ import { transform } from "next/dist/build/swc/generated-native";
 import { unique } from "next/dist/build/utils";
 import { config } from "process";
 
+
+// generate transaction schema interface
+
+
+
 const transactionSchema = new Schema({
     buyer: {
         type: Schema.Types.ObjectId,
