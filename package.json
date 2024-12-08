@@ -13,7 +13,7 @@
     "@clerk/clerk-sdk-node": "^5.0.70",
     "@clerk/nextjs": "^6.5.2",
     "clsx": "^2.1.1",
-    "mongodb": "^6.10.0",
+    "mongodb": "^6.11.0",
     "mongoose": "^8.2.0",
     "next": "15.0.3",
     "qs": "^6.13.1",
